@@ -1,0 +1,14 @@
+p{ 
+   margin: auto;
+   width:600px;
+   height: 120px; 
+   padding: 20px;
+   background-color: blue;
+   border-style: double 120px;
+   text-align: center;
+   font-style: italic;
+   letter-spacing: 5 px;
+  }
+nav{color:blue;
+   text-align: center;
+   margin:auto;}
